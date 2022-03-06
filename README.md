@@ -17,7 +17,7 @@ $ sudo apt install
 
 Run these commands to Send Anonymous Message
 
-### > For Linux:
+### For Linux:
 
 **Notice:** 
 
@@ -26,10 +26,13 @@ so, installing git as per instructions below may not work.
 Please check out how to install `git` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
 
-To Send Message Anonymously type the following commands in Linux terminal:
+To Send free anom sms type the following commands in Linux terminal:
 ```
 pkg install git
+```
 git clone https://github.com/MavaaQ/free-sms.git
+```
 cd free-sms
+```
 bash free-sms
 ```
