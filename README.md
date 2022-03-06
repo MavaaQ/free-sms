@@ -28,11 +28,14 @@ Commands below provide instructions for Debian-based systems.
 
 To Send free anom sms type the following commands in Linux terminal:
 ```
-pkg install git
+sudo apt install git
+```
 ```
 git clone https://github.com/MavaaQ/free-sms.git
 ```
+```
 cd free-sms
+```
 ```
 bash free-sms
 ```
