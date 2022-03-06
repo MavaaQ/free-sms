@@ -16,7 +16,7 @@ Run these commands to Send Anonymous Message
 
 git installation methods are not universal and do differ between distributions,
 so, installing git as per instructions below may not work.
-Please check out how to install `git` for your Linux distribution.
+Please check out how to install `wget` for your Linux distribution.
 Commands below provide instructions for Debian-based systems.
 
 To Send free anom sms type the following commands in Linux terminal:
