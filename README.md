@@ -1,4 +1,4 @@
-<h1 align="center">Free Anon SMS v1.0</h1>
+<h1 align="center">Free Anonymous SMS v1.0</h1>
 <p align="center">Anonymous Message Sender for Linux.</p><br>
 
 ## Note:
