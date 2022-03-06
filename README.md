@@ -27,8 +27,5 @@ sudo apt install git
 wget https://raw.githubusercontent.com/MavaaQ/free-sms/main/free-sms
 ```
 ```
-cd free-sms
-```
-```
 bash free-sms
 ```
