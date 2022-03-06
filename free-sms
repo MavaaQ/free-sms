@@ -165,6 +165,6 @@ echo ""
 curl -X POST https://textbelt.com/text \
        --data-urlencode phone=$phone \
        --data-urlencode message="$message" \
-       -d key="$api" 
+       -d key=$api
 echo "${default}"
 #DONE
