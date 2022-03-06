@@ -21,7 +21,7 @@ Commands below provide instructions for Debian-based systems.
 
 To Send free anom sms type the following commands in Linux terminal:
 ```
-sudo apt install git
+sudo apt install wget
 ```
 ```
 wget https://raw.githubusercontent.com/MavaaQ/free-sms/main/free-sms
