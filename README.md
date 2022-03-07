@@ -5,7 +5,8 @@
 
 - The script requires working network connection to work.
 - Don't put spaces in between phone number (Ex- 99999 99999)
-- This script are using textbelt.com
+- This script are using https://textbelt.com
+- 1 sms per day is limit for free plan (Buy SMS on https://textbelt.com for more SMS)
 
 ## Usage:
 
