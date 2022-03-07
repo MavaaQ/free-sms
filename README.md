@@ -5,6 +5,7 @@
 
 - The script requires working network connection to work.
 - Don't put spaces in between phone number (Ex- 99999 99999)
+- This script are using textbelt.com
 
 ## Usage:
 
