@@ -133,16 +133,17 @@ fi
 
 #Banner
 LOGO
-echo -e "${BLUE}${BLINK}-> coded by MavaaQ"${RESET}${RED}
+echo -e "${BLUE}-> coded by MavaaQ"${RESET}${RED}
 sleep 2 &
-PID=$!
-i=1
-sp="/-\|"
-echo -n ' '
+echo ""
+echo -e "${RED}Loading ${BLINK}. . .${RESET}"
 while [ -d /proc/$PID ]
 do
-  printf "\b${sp:i++%${#sp}:1}"
+printf "\b${sp:i++%${#sp}:1}"
+echo -n ' '
+PID=$!
 done
+echo -e "${RED}Loaded${RESET}"
 
 #Main Function
 echo ""
