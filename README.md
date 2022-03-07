@@ -1,4 +1,4 @@
-<h1 align="center">Free Anonymous SMS v1.0</h1>
+<h1 align="center">Free Anonymous SMS v1.1</h1>
 <p align="center">Anonymous Message Sender for Linux.</p><br>
 
 ## Note:
@@ -26,8 +26,8 @@ To Send free anom sms type the following commands in Linux terminal:
 sudo apt install wget
 ```
 ```
-wget https://raw.githubusercontent.com/MavaaQ/free-sms/main/free-sms-v1.0
+wget https://raw.githubusercontent.com/MavaaQ/free-sms/main/free-sms-v1.1
 ```
 ```
-bash free-sms
+bash free-sms-v1.1
 ```
