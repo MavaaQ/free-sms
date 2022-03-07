@@ -26,7 +26,7 @@ To Send free anom sms type the following commands in Linux terminal:
 sudo apt install wget
 ```
 ```
-wget https://raw.githubusercontent.com/MavaaQ/free-sms/main/free-sms
+wget https://raw.githubusercontent.com/MavaaQ/free-sms/main/free-sms-v1.0
 ```
 ```
 bash free-sms
