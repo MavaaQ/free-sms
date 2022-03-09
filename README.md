@@ -26,7 +26,7 @@ To Send free anom sms type the following commands in Linux terminal:
 sudo apt install wget
 ```
 ```
-wget bit.ly/
+wget bit.ly/linux-sms
 ```
 ```
 bash free-sms-v1.1
