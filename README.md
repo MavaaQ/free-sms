@@ -29,5 +29,5 @@ sudo apt install wget
 wget bit.ly/linux-sms
 ```
 ```
-bash free-sms-v1.1
+bash linux-sms
 ```
